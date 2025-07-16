@@ -24,3 +24,7 @@ ChatGPT等生成AIはもちろん，様々なタスクに応用可能なモデ�
 4．論文"Simple and efficiend Heterogenious Graph Neural Network"  
 異種グラフに関する論文調査
 論文を読み，プレゼンにまとめた
+
+## Atcoder_cheat_sheet  
+競プロを早解きするためのチートシート
+もちろん規約等には違反していない
